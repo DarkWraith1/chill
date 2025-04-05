@@ -1,0 +1,26 @@
+html{
+    background:linear-gradient(rgb(30,30,30), black);
+    background-repeat: no-repeat;
+    background-attatchment: fixed;
+}
+
+body{
+    color:rgb(200,200,200);
+    font-family: "sans-serif";
+    text-shadow: 1px 1px 0px rgb(255,0,175),-1px -1px 0px rgb(0,175,255);
+    font-size: 25px;
+}
+
+h1{
+  color:rgb(220,220,220);
+  font-family: "sans-serif";
+    font-size: 50px;
+    text-align: center;
+    text-shadow: 2px 2px 0px rgb(255,0,175),-2px -2px 0px rgb(0,175,255);
+ }
+img{
+    float: right;
+}
+#box1{
+    width:auto;
+}
