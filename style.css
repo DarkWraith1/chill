@@ -1,7 +1,7 @@
 html{
     background:linear-gradient(rgb(30,30,30), black);
     background-repeat: no-repeat;
-    background-attatchment: fixed;
+    background-size: cover;
 }
 
 body{
